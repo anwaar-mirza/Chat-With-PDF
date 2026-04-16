@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+langchain-groq
+chromadb
+pypdf
+python-dotenv
+FastAPI
+uvicorn
+python-multipart
+langchain-openai
